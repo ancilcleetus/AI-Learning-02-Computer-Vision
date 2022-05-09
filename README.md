@@ -1,4 +1,4 @@
-# Deep Learning Foundations
+# Computer Vision Foundations
 
 This repo is an effort to document different courses related to Computer Vision that I'm going through.
 
